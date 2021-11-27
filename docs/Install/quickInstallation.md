@@ -1,6 +1,6 @@
 ---
 id: Quick installation
-title: Quick installation!
+title: Quick Installation!
 ---
 
 ## (Testing phase, functions not fully open)
@@ -11,11 +11,11 @@ Currently supported system: Ubuntu 18.4
 
 To install the binary file using our quick installation script, run any of the following commands in the terminal:
 
-## wget
+## Wget
 
 `wget -q -O - https://raw.githubusercontent.com/sinsoio/SINSO/master/install.sh | tag= v0.0.3 bash `
 
-## curl
+## Curl
 
 `curl -s https://raw.githubusercontent.com/sinsoio/sinso/master/install.sh | tag= v0.0.3 bash `
 
@@ -38,7 +38,7 @@ you to add your wallet address.
 
 It is strongly recommended to use a service manager, such as systemctl to run SINSO, to avoid various file permission problems that may occur when manually operated without careful file management. If you are running a supported release version, using the attached packages will automatically set up these services for you.
 
-## Import your Wallet
+## Import Your Wallet
 
 When you run SINSO for the first time, the system will ask you to import a wallet address, which is the address of the VIP node you applied for. Besides, you need to import the private key of the address. Please rest assured. because SINSO is a decentralized network, there will be no centralized processing to steal your private key. Importing the private key is for the staking. Since the test staking currency is free to receive, so the staking operation does not require manual operation.
 

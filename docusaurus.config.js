@@ -22,9 +22,9 @@ module.exports = {
       },
       items: [
         {
-          label: 'get Started',
+          label: 'GitHub',
           position: 'right',
-          to: 'docs/welCome',
+          to: 'https://github.com/sinsoio',
         },
         // {
         //   label: 'About Us',
@@ -62,8 +62,8 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Medium',
+              href: 'https://sinsonetwork.medium.com',
             },
             // {
             //   label: 'Discord',

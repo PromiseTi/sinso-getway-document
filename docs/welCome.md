@@ -1,6 +1,6 @@
 ---
 id: welCome
-title: welCome!
+title: WelCome!
 sidebar_position: 1
 ---
 
@@ -16,7 +16,9 @@ SINSO Getway relieves all DAPPs from building IPFS adjacent nodes or other centr
 
 ## SINSO White Paper
 
-[Read SINSO White Paper (Click the link and download)](https://www.sinso.io/static/files/whitepaper.pdf)
+<!-- [Read SINSO White Paper (Click the link and download)](https://www.sinso.io/static/files/whitepaper.pdf) -->
+
+Read SINSO White Paper
 
 ## Installation
 
@@ -40,7 +42,7 @@ SINSO is backed by a vibrant community - join one of our channels:
 
 - https://twitter.com/sinsotech
 - https://t.me/sinsotech
-- https://sinsotech.medium.com
+- https://sinsonetwork.medium.com
 
 ## Reporting a Bug
 
