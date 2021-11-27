@@ -18,7 +18,7 @@ module.exports = {
       logo: {
         alt: 'My Site Logo',
         src: 'img/img-logo.png',
-        href: 'docs/welCome',
+        href: 'docs/welcome',
       },
       items: [
         {

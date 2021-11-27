@@ -1,6 +1,6 @@
 ---
-id: welCome
-title: WelCome!
+id: welcome
+title: Welcome!
 sidebar_position: 1
 ---
 
