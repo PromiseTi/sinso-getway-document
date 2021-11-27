@@ -10,7 +10,7 @@ import { Redirect } from '@docusaurus/router'
 function Home() {
   const context = useDocusaurusContext()
   const { siteConfig = {} } = context
-  return <Redirect to="docs/welCome" />
+  return <Redirect to="docs/welcome" />
 }
 
 export default Home
