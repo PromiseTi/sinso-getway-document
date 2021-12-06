@@ -16,7 +16,8 @@ Currently, SINSO Testnet is only open to VIP users.
 Apply for VIP：https://www.whitelist.vip
 
 After the application is approved, you can obtain TSINSO from the Testnet Faucet: currently, only authorization signature with the Metamask wallet connection is supported (need connecting to Metamask plug-in on PC to receive）
-SINSO Testnet address
+
+SINSO Test URL:http://testnet.whitelist.vip/
 
 Tips:
 
