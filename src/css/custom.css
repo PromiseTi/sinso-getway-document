@@ -794,3 +794,9 @@ a:hover {
 .margin-bottom {
   margin-bottom: 30px;
 }
+.prism-code {
+  background-color: #000000 !important;
+}
+.prism-code span {
+  color: #ffffff !important;
+}
