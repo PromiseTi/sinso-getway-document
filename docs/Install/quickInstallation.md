@@ -27,7 +27,7 @@ tar -xf v1.0.2.tar.gz
 cd mine_publish-1.0.2/ && chmod 755 sinso
 ```
 
-![Coinlist ](../img/team1.jpg)
+<!-- ![Coinlist ](../img/team1.jpg) -->
 
 ## Run SINSO
 
