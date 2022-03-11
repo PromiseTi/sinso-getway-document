@@ -1,6 +1,7 @@
 ---
 id: Quick installation
 title: Quick Installation!
+sidebar_position: 2
 ---
 
 ## (Testing phase, functions not fully open)
@@ -34,7 +35,7 @@ cd mine_publish-1.1.0/ && chmod 755 sinso
 After installing SINSO, you can test whether it has been successfully installed by starting the node.
 
 ```html preview
-./sinso start --swap-endpoint=https://data-seed-pressc-1.sinso.io
+./sinso start --swap-endpoint=https://data-seed-pressc-3.sinso.io
 ```
 
 After successfully starting the node, the program will prompt "Welcome to Sinso"
