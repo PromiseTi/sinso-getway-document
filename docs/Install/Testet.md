@@ -1,6 +1,7 @@
 ---
 id: Testnet
 title: Testnet!
+sidebar_position: 1
 ---
 
 The SINSO distributed cache testnet is built on top of the SSC (Sinso Smart Chain) testnet, so you must use the testnet's SIN and TSINSO to fund your nodes.
@@ -29,7 +30,7 @@ Metamask plugin download address:
 
 https://chrome.google.com/webstore/search/metamask?hl=en
 
-## Add ssc network
+## Add Ssc Network
 
 Chain Name: SSC
 
