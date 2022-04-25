@@ -13,19 +13,19 @@ To install the binary file using our quick installer, please run any of the foll
 ## Wget
 
 ```html preview
-wget https://github.com/sinsoio/mine_publish/archive/refs/tags/v1.1.3.tar.gz
+wget https://github.com/sinsoio/mine_publish/archive/refs/tags/v1.1.5.tar.gz
 ```
 
 - Uncompress:
 
 ```html preview
-tar -xf v1.1.3.tar.gz
+tar -xf v1.1.5.tar.gz
 ```
 
 - Add the permissions to run executable files:
 
 ```html preview
-cd mine_publish-1.1.3/ && chmod 755 sinso
+cd mine_publish-1.1.5/ && chmod 755 sinso
 ```
 
 <!-- ![Coinlist ](../img/team1.jpg) -->
@@ -35,7 +35,8 @@ cd mine_publish-1.1.3/ && chmod 755 sinso
 After installing SINSO, you can test whether it has been successfully installed by starting the node.
 
 ```html preview
-./sinso start --full-node=true --swap-endpoint=https://data-seed-pressc-3.sinso.io
+./sinso start --full-node=true
+--swap-endpoint=https://data-seed-pressc-3.sinso.io
 ```
 
 After successfully starting the node, the program will prompt "Welcome to Sinso"
