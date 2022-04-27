@@ -59,7 +59,7 @@ When you run SINSO for the first time, the system will ask you to import a walle
 
 ## Staking Reward
 
-SWAP-Endpoint is the RPC interface address of the BSC test chain. Please configure this address by yourself. The official address may be unstable.
+SWAP-Endpoint is the RPC interface address of the SSC test chain. Please configure this address by yourself. The official address may be unstable.
 
 SINSO will call the proof-of-work contract each hour to check whether you are online and whether the node has staked coins. If both are satisfied, you will be rewarded with the corresponding workload.
 
