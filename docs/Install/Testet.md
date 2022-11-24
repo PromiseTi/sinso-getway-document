@@ -4,52 +4,43 @@ title: Testnet!
 sidebar_position: 1
 ---
 
-The SINSO distributed cache testnet is built on top of the SSC (Sinso Smart Chain) testnet, so you must use the testnet's SIN and TSINSO to fund your nodes.
+SINSO 分布式缓存测试网建立在 Amstar 测试网之上，因此您必须使用测试网的 TSINSO 为您的节点提供资金。
 
-## How to receive SIN from SSC testnet?
+## 如何从 AMSTART 测试网接收 TSINSO？
 
-SSC Testnet Faucet URL: https://faucet-testssc.sinso.io/
+Amstar 测试网水龙头 URL： https://faucet-testnet.amstarscancom/
 
-## How to receive node Staking Token TSINSO from SINSO testnet?
+## 如何从 SINSO 测试网接收节点 Staking Token TSINSO？
 
-Currently, SINSO Testnet is only open to VIP users.
+目前，SINSO 测试网对所有用户开放。
 
-Apply for VIP: https://www.whitelist.vip
+用户可以下载对应的 sinso 挖矿程序，然后按照教程启动节点后，就可以去领取对应节点的测试质押币
+目前仅支持连接 Metamask 钱包的授权签名（Metamask 插件需要连接 PC 端接收）
 
-After the application is approved, TSINSO can be obtained from Testnet Faucet: Currently, only authorized signatures connected to the Metamask wallet are supported (the Metamask plugin needs to be connected to the PC to receive)
+SINSO 质押浏览器：https://testnet.sinso.io/
 
-New cable test website: http://testnet.whitelist.vip/
+提示：
 
-hint:
-
-Click to download Chrome browser:
+点击下载 Chrome 浏览器：
 
 https://www.google.com/intl/en-US/chrome/browser-features/#extensions
 
-Metamask plugin download address:
+Metamask 插件下载地址：
 
 https://chrome.google.com/webstore/search/metamask?hl=en
 
-## Add Ssc Network
+# 添加 amstar 网络
 
-Chain Name: SSC
+Chain Name：AMSTAR TEST
 
 PRC URL:
 
-- https://data-seed-pressc-1.sinso.io/
-- https://data-seed-pressc-2.sinso.io
-- https://data-seed-pressc-3.sinso.io
+https://testnet-rpc.amstarscan.com/
 
-Chain ID: 8845
+Chain ID:1138
 
-Coin Symbol: SIN
+Coin Symbol: TSINSO
 
-Browser: https://testssc.sinso.io/
+Browser：https://testnet.amstarscancom/
 
-## Add tsinso in Ssc test chain
-
-Token Contract: 0x6bc1bf17ddB32c393BA6Dc5369dEa04812C4862C
-
-Symbol: TSINSO
-
-Decimal: 18
+![Coinlist ](../img/metamask1.jpg)
