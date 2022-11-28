@@ -142,26 +142,26 @@ be careful
 
 2. If there is no independent IP, you need to configure port mapping on the router or the network entrance device of the computer room. The external IP: port is mapped to the internal IP: port of the server that needs to open a port. Check whether the set internet ip: port is connected to other servers.
 
-## 加入 sinso
+## Join sinso
 
-如果一切顺利，您将看到您的节点开始正式工作，外网端口也是通畅的，运行也是正常的。
+If everything goes well, you will see that your node is officially working, and the external network port is also smooth and running normally.
 
-现在您的节点将开始请求属于您职责范围内的数据块——然后您将向在 SINSO 中运行的其他 p2p 客户端提供数据。接下来，您的节点将开始响应其他节点对这些区块的请求，您很快就会在 SINSO 中获得奖励。
+Now your node will start to request the data blocks that belong to your responsibility -- then you will provide data to other p2p clients running in SINSO. Next, your node will begin to respond to requests from other nodes for these blocks, and you will soon get rewards in SINSO。
 
-## 警告
+## Warning
 
-首次运行 SINSO 时，系统会要求您自动创建或者导入一个节点管理地址，如果您是导入，您需要导入地址的私钥。请放心吧。因为 SINSO 是一个去中心化的网络，所以不会有中心化的处理来窃取你的私钥。在手动添加节点时也是一样。
+When running SINSO for the first time, the system will ask you to automatically create or import a node management address. If you are importing, you need to import the private key of the address. Don't worry. Because SINSO is a decentralized network, there will be no centralized processing to steal your private key. The same is true when manually adding nodes.
 
-## 质押奖励。
+## Pledge reward
 
-SINSO 会每 4 小时调用一次工作量证明合约，检查你是否在线，是否存储了全网数据块，节点是否有质押币。如果都满足，您将获得相应的工作量奖励。
+SINSO will call the workload proof contract every 4 hours to check whether you are online, whether the whole network data block is stored, and whether the node has pledge currency. If all the requirements are met, you will receive corresponding workload rewards.
 
-## 区块链 RPC 端点
+## Blockchain RPC Endpoint
 
-您的 sinso 节点必须能够稳定访问 amstar Chain RPC 端点，以便它可以与您节点进行交互和部署，我们系统会自动分配 amstar Chain RPC 端点，不需要用户再去手动配置。
+Your sinso node must be able to stably access the amstar Chain RPC endpoint, so that it can interact and deploy with your node. Our system will automatically allocate the amstar Chain RPC endpoint, without the user having to manually configure it.
 
-## 升级 sinso
+## Upgrade sinso
 
-要升级直接进入 about us 界面 ，点击 check for updates。系统会提示您是否是最新版本，如果不是可以点击下载更新
+To upgrade, directly enter the about us interface, click check for updates. The system will prompt you whether it is the latest version, if not, you can click to download the update
 
 ![Coinlist ](../img/in9.jpg)
