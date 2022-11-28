@@ -4,141 +4,143 @@ title: Quick Installation!
 sidebar_position: 2
 ---
 
-要安装 sinso 节点，您需要完成以下过程
+To install the sinso node, you need to complete the following procedure
 
-1.安装 sinso GUI 挖矿程序
+1. Install the sinso GUI mining program
 
-2.配置 sinso 参数
+2. Configure the sinso parameter
 
-3.运行 sinso
+3. Run sinso
 
-4.添加 sinso 节点
+4. Add the sinso node
 
-5.用 TSINSO 代币为您的节点提供资金用于主网交互
+5. Use TSINSO token to provide funds for your node for main network interaction
 
-6.NAT 地址
+6. NAT address
 
-7.启动 sinso 节点并检查您的 sinso 是否正在工作
+7. Start the sinso node and check whether your sinso is working
 
-## 安装 sinso
+## Install sinso
 
-当前支持的系统：
+Currently supported systems:
 
 1. Ubuntu 18.04
 
 2. Windows 10
 
-3. Mac （Intel 芯片）
+3. Mac (Intel chip)
 
-# 获取
+# Download
 
-要使用我们的快速安装程序安装.exe 文件，请在通过下面连接下载获取
+To install the. exe file using our Express Installer, please download it at the following link
 
-Ubuntu 18.04 下载地址：
+Ubuntu 18.04 Download address:
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-ubuntu-amd64.tar.gz
 
-Windows 10 下载地址：
+Windows 10 Download address:
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-windows-amd64.tar.gz
 
-Mac （Intel 芯片）下载地址：
+Mac （Intel chip） Download address:
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-mac-intel.tar.gz
 
-## 配置 sinso
+## Configure sinso
 
-在您第一次启动 sinso，您需要对其进行配置以满足您的需要。
+The first time you start sinso, you need to configure it to meet your needs.
 
-## 编辑配置信息
+Edit Configuration Information
 
-1. 节点管理账号
+1. Node management account
 
-帮助您质押节点时查询您所创建的节点。并且为你创建的节点提供 gas
+Helps you query the nodes you created when pledging nodes. It also provides gas for the nodes you create
 
-2. 节点启动密码
+2. Node startup password
 
-帮助您启动节点验证安全以及导出私钥。该密码程序不会帮你保存，所以请您自己备份好，如有丢失我们也不能帮您找回
+Help you start the node to verify security and export private keys. This password program will not be saved for you, so please back it up by yourself. If it is lost, we can't help you to retrieve it
 
-3. 数据存储目录
+3. Data storage directory
 
-sinso 为去中心化存储，所以您需要设置您的数据保存目录。最小不低于 100g。
+Sinso is decentralized storage, so you need to set your data storage directory. The minimum is not less than 100g.
 
 ![Coinlist ](../img/in1.jpg)
 
-## 运行 sinso
+## Running sinso
 
-配置好 SINSO 后，会显示出您的运行 sinso 的设备性能，这将直接导致您设备能够搭建 sinso 节点的数量。
+After SINSO is configured, the performance of your device running sinso will be displayed, which will directly lead to the number of sinso nodes that your device can set up.
 
 ![Coinlist ](../img/in2.jpg)
 
-## 添加 sinso 节点
+## Add sinso node
 
-您可以直接输入小于等于系统提示的数字，输入后点击自动生成
+You can directly enter a number less than or equal to the number prompted by the system, and click Auto Generate after input
 
 ![Coinlist ](../img/in3.jpg)
 
-当然您也可以手动配置您的 sinso 节点
+Of course, you can also manually configure your sinso node
 
 ![Coinlist ](../img/in4.jpg)
 
-## 资助您的节点
+## Funding your nodes
 
-Sinso 节点配置好以后，再进入下一步 sinso 节点启动之前，您需要为您的节点提供资金，TSINSO 作为链上 gas 的消耗。您可以通过水龙头领取对应的 TSINSO GAS
+After the Sinso node is configured, you need to provide funds for your node before the next step of sinso node startup. TSINSO is used as the consumption of gas on the chain. You can get the corresponding TSINSO GAS through the faucet
 
 ![Coinlist ](../img/in5.jpg)
 
-以上步骤成功完成后，就可以启动您的节点
+After the above steps are completed successfully, you can start your node
 
 ![Coinlist ](../img/in6.jpg)
 
-## NAT 地址
+## NAT address
 
-sinso 激励网络 是关于共享和存储数据的。要让其他节点连接到您的节点，您必须广播您的公共 IP 地址，并确保 节点在正确的 p2p 端口上可访问。我们建议您手动配置您的外部 IP 并检查连接以确保您的 节点 能够接收来自其他对节点的连接。
+Sinso excitation network is about sharing and storing data. To enable other nodes to connect to your node, you must broadcast your public IP address and ensure that the node is accessible on the correct p2p port. We recommend that you manually configure your external IP and check the connection to ensure that your node can receive connections from other nodes.
 
-- 您可以通过界面显示外网端口状态查看您的外网端口是否已经打开。
+- You can check whether your Internet port has been opened by displaying the status of the Internet port on the interface.
 
-如果界面显示未打开的情况，您还可以通过下面方式来检查
+![Coinlist ](../img/in10.jpg)
 
-首先确定您的公共 IP 地址,不同的系统下检测不一样，下面就用 Ubuntu 18.04 来举例。（其他系统可以上网搜索相关操作）
+If the interface shows that it is not open, you can also check it in the following way
 
-命令行输入：curl icanhazip.com
+First, determine your public IP address. Different systems have different detections. Let's take Ubuntu 18.04 as an example. (Other systems can search relevant operations online)
+
+Command line input:curl icanhazip.com
 
 ```html preview
 curl icanhazip.com
 ```
 
-访问后，会得到一个 ip 地址，这个 ip 就是你的外网 ip 地址
+After accessing, you will get an IP address, which is your Internet IP address
 
 ```html preview
 123.123.123.123
 ```
 
-然后根据系统分配的节点 p2p 端口进行配置（比如：端口为 1634）
+Then configure according to the node p2p port assigned by the system (for example, the port is 1634)
 
 ```html preview
 nat-addr: “123.123.123.123 1634”
 ```
 
-检查您的节点 p2p 端口是否打开，也可以通过以下操作来判断：
+Check whether your node's p2p port is open. You can also judge by the following operations:
 
 ```html preview
 nc -zv 123.123.123.123 1634
 ```
 
-如果出现下列信息，则表示端口已打开
+If the following message appears, the port is open
 
 ![Coinlist ](../img/in7.jpg)
 
-如果出现下面信息，表示该端口未打开或者网络错误
+If the following information appears, it means that the port is not opened or the network is wrong
 
 ![Coinlist ](../img/in8.jpg)
 
-注意:
+be careful
 
-1、如果服务器有独立的外网 ip，在其他服务器上检查需要配置的服务器 p2p 端口是否通的。不通再检查机器、网络是不是有防火墙。
+1. If the server has an independent Internet IP address, check whether the p2p port of the server to be configured is available on other servers. If not, check whether the machine and network have firewalls.
 
-2、如果是没有独立 ip，需要在路由器或者机房网络入口设备配置端口映射。外网 ip:端口 映射到需要开端口的服务器内网 ip:端口。在其他服务器检查设置的外网 ip:端口是否通。
+2. If there is no independent IP, you need to configure port mapping on the router or the network entrance device of the computer room. The external IP: port is mapped to the internal IP: port of the server that needs to open a port. Check whether the set internet ip: port is connected to other servers.
 
 ## 加入 sinso
 
