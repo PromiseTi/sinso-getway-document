@@ -30,7 +30,7 @@ After installing SINSO client, learn how to configure your software, interact wi
 
 ## Incentives
 
-Need more motivation to involve in the wonderful SINSO world? Learn how you will quickly earn TSINSO tokens to store and dispatch your share of data in the world - sharing is caring!
+Need more motivation to involve in the wonderful SINSO world? Learn how you will quickly earn SINSO tokens to store and dispatch your share of data in the world - sharing is caring!
 
 ## Development
 

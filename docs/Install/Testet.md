@@ -5,13 +5,13 @@ sidebar_position: 1
 ---
 
 The SINSO distributed cache test network is built on the Amstar test network,
-so you must use the TSINSO of the test network to fund your nodes.
+so you must use the SINSO of the test network to fund your nodes.
 
-## How to receive TSINSO from AMSTART test network
+## How to receive SINSO from AMSTART test network
 
 Amstar test network faucet URL： https://faucet-testnet.amstarscancom/
 
-## How to receive the Staging Token TSINSO node from the SINSO test network？
+## How to receive the Staging Token SINSO node from the SINSO test network？
 
 At present, the SINSO test network is open to all users.
 
@@ -39,8 +39,8 @@ https://testnet-rpc.amstarscan.com/
 
 Chain ID:1138
 
-Coin Symbol: TSINSO
+Coin Symbol: SINSO
 
 Browser：https://testnet.amstarscancom/
 
-![Coinlist ](../img/metamask1.jpg)
+<!-- ![Coinlist ](../img/metamask1.jpg) -->

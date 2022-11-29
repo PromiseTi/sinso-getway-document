@@ -14,7 +14,7 @@ To install the sinso node, you need to complete the following procedure
 
 4. Add the sinso node
 
-5. Use TSINSO token to provide funds for your node for main network interaction
+5. Use SINSO token to provide funds for your node for main network interaction
 
 6. NAT address
 
@@ -84,7 +84,7 @@ Of course, you can also manually configure your sinso node
 
 ## Funding your nodes
 
-After the Sinso node is configured, you need to provide funds for your node before the next step of sinso node startup. TSINSO is used as the consumption of gas on the chain. You can get the corresponding TSINSO GAS through the faucet
+After the Sinso node is configured, you need to provide funds for your node before the next step of sinso node startup. SINSO is used as the consumption of gas on the chain. You can get the corresponding SINSO GAS through the faucet
 
 ![Coinlist ](../img/in5.jpg)
 
