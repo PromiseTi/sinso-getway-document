@@ -1,26 +1,26 @@
 ---
-id: Quick installation
-title: Quick Installation!
+id: Quick How-To Guide!
+title: Quick How-To Guide!
 sidebar_position: 2
 ---
 
-To install the sinso node, you need to complete the following procedure
+To install SINSO nodes, you need to complete the following steps:
 
-1. Install the sinso GUI mining program
+1. Install the SINSO GUI mining program
 
-2. Configure the sinso parameter
+2. Set up configurations
 
-3. Run sinso
+3. Run the SINSO GUI mining program
 
-4. Add the sinso node
+4. Add SINSO nodes
 
-5. Use SINSO token to provide funds for your node for main network interaction
+5. Use T-SINSO as the gas fee for your nodes and their interaction with the Mainnet.
 
 6. NAT address
 
-7. Start the sinso node and check whether your sinso is working
+7. Start SINSO nodes and check whether your SINSO nodes are working properly
 
-## Install sinso
+## Installing SINSO
 
 Currently supported systems:
 
@@ -28,21 +28,21 @@ Currently supported systems:
 
 2. Windows 10
 
-3. Mac (Intel chip)
+3. Mac （Intel 芯片）(Intel-based)
 
-# Download
+# Download Address
 
-To install the. exe file using our Express Installer, please download it at the following link
+You can access the quick-installation program .exe file by clicking the link below:
 
-Ubuntu 18.04 Download address:
+Ubuntu 18.04 :
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-ubuntu-amd64.tar.gz
 
-Windows 10 Download address:
+Windows 10 :
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-windows-amd64.tar.gz
 
-Mac （Intel chip） Download address:
+Mac （Intel 芯片）Mac ( Intel processor-based):
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-mac-intel.tar.gz
 
