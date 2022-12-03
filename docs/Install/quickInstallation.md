@@ -28,7 +28,7 @@ Currently supported systems:
 
 2. Windows 10
 
-3. Mac （Intel 芯片）(Intel-based)
+3. Mac (Intel-based)
 
 # Download Address
 
@@ -42,7 +42,7 @@ Windows 10 :
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-windows-amd64.tar.gz
 
-Mac （Intel 芯片）Mac ( Intel processor-based):
+Mac ( Intel processor-based):
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-mac-intel.tar.gz
 
