@@ -14,7 +14,7 @@ To install SINSO nodes, you need to complete the following steps:
 
 4. Add SINSO nodes
 
-5. Use T-SINSO as the gas fee for your nodes and their interaction with the Mainnet.
+5. Use SINSO as the gas fee for your nodes and their interaction with the Mainnet.
 
 6. NAT address
 

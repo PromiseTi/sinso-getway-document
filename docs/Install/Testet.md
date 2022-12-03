@@ -9,7 +9,7 @@ so you must use the SINSO of the test network to fund your nodes.
 
 ## How to receive SINSO from AMSTART test network
 
-Amstar test network faucet URL： https://faucet-testnet.amstarscancom/
+Amstar test network faucet URL： https://faucet-testnet.amstarscan.com/
 
 ## How to receive the Staging Token SINSO node from the SINSO test network？
 
@@ -41,6 +41,6 @@ Chain ID:1138
 
 Coin Symbol: SINSO
 
-Browser：https://testnet.amstarscancom/
+Browser：https://testnet.amstarscan.com/
 
 <!-- ![Coinlist ](../img/metamask1.jpg) -->
