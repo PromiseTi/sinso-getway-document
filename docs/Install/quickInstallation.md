@@ -24,7 +24,9 @@ To install SINSO nodes, you need to complete the following steps:
 
 Currently supported systems:
 
-1. Ubuntu 18.04
+1. Ubuntu desktop 20.04
+
+   https://ubuntu.com/#download
 
 2. Windows 10
 
@@ -34,7 +36,7 @@ Currently supported systems:
 
 You can access the quick-installation program .exe file by clicking the link below:
 
-Ubuntu 18.04 :
+Ubuntu 20.04 :
 
 https://github.com/sinsoio/sinso-mine-ui/releases/download/v0.0.1/mine-ui-ubuntu-amd64.tar.gz
 
@@ -102,7 +104,7 @@ Sinso excitation network is about sharing and storing data. To enable other node
 
 If the interface shows that it is not open, you can also check it in the following way
 
-First, determine your public IP address. Different systems have different detections. Let's take Ubuntu 18.04 as an example. (Other systems can search relevant operations online)
+First, determine your public IP address. Different systems have different detections. Let's take Ubuntu 20.04 as an example. (Other systems can search relevant operations online)
 
 Command line input:curl icanhazip.com
 
